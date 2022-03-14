@@ -1,0 +1,64 @@
+{
+    "departments": [
+        {
+            "name": "departments",
+            "description": "Departments",
+            "level": [
+                {
+                    "name": "department",
+                    "description": "Department",	
+                    "person": {
+                        "name": "Faisal Ahmed",
+                        "designation": "CEO",
+                        "imageURL": "https://image.freepik.com/free-vector/businessman-avatar-cartoon-character-profile_18591-50585.jpg"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "departments",
+            "description": "Departments",
+            "level": [
+                {
+                    "name": "department",
+                    "description": "Department",	
+                    "person": {
+                        "name": "Faisal Ahmed",
+                        "designation": "CEO",
+                        "imageURL": "https://image.freepik.com/free-vector/businessman-avatar-cartoon-character-profile_18591-50585.jpg"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "departments",
+            "description": "Departments",
+            "level": [
+                {
+                    "name": "department",
+                    "description": "Department",	
+                    "person": {
+                        "name": "Faisal Ahmed",
+                        "designation": "CEO",
+                        "imageURL": "https://image.freepik.com/free-vector/businessman-avatar-cartoon-character-profile_18591-50585.jpg"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "departments",
+            "description": "Departments",
+            "level": [
+                {
+                    "name": "department",
+                    "description": "Department",	
+                    "person": {
+                        "name": "Faisal Ahmed",
+                        "designation": "CEO",
+                        "imageURL": "https://image.freepik.com/free-vector/businessman-avatar-cartoon-character-profile_18591-50585.jpg"
+                    }
+                }
+            ]
+        }
+    ]
+}
